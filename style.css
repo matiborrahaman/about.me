@@ -1,0 +1,34 @@
+/* header {
+
+    background-color: #111a28;
+    word-wrap: break-word;
+    -webkit-font-kerning: normal;
+    font-kerning: normal;
+    -ms-font-feature-settings: "kern","liga","clig","calt";
+    font-feature-settings: "kern","liga","clig","calt";
+} */
+.bg{
+    background-color:#111A28;
+}
+
+.container{
+    background-color:#111A28;
+    color: blanchedalmond;
+}
+.about{
+    background-color:#111A28;
+}
+.leftinfo{
+    margin-top: 200px;
+}
+ .leftinfo h1{
+     font-size: 50px;
+ }
+ .leftinfo p{
+    font-size: 17px;
+    font-family: sans-serif;
+    font-weight: 500;
+ }
+ .leftinfo h3,h4{
+    color:rgb(0, 185, 56);
+ }
